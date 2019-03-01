@@ -14,11 +14,11 @@ feedburner_url:
 
 # footer details. Deleting the value would remove it from footer.
 github_username:  generaliinformatik
-facebook_username:
+facebook_username: Generali.Informatik
 email: opensource.de@generali.com
-stackoverflow_username:
-twitter_username : generaliinformatik
-linkedin_username : generaliinformatik
+stackoverflow_username: 
+twitter_username : GeneraliGDIS
+linkedin_username : generali-deutschland-holding-ag
 keybase_username :
 copyright_name: Generali Deutschland AG
 rss : false
